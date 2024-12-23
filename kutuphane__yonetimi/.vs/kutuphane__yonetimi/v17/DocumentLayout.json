@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmyazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmyazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmogretmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmyayinci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmyayinci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmyayinci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmyayinci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\frmyazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\frmyazar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|c:\\users\\hp\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DCB7AF-5F70-414A-9F31-9F4C7F488003}|kutuphane__yonetimi\\kutuphane__yonetimi.csproj|solutionrelative:kutuphane__yonetimi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmpersonel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmpersonel.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmpersonel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmpersonel.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmpersonel.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:49:26.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Form1.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:24:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frmogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogrenci.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmogrenci.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogrenci.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmogrenci.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwMoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T23:39:48.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmyazar.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyazar.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmyazar.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyazar.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmyazar.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAADwv8oAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:08:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmkitap.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmkitap.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmkitap.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmkitap.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmkitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:05:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frmyayinci.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyayinci.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmyayinci.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyayinci.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmyayinci.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAiwMgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:38:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frmogretmen.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogretmen.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmogretmen.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogretmen.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmogretmen.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAnwMEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:18:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Program.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Program.cs",
+              "RelativeToolTip": "kutuphane__yonetimi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:57:51.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmkitap.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmkitap.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmkitap.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmkitap.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmkitap.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T01:06:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frmogretmen.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogretmen.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmogretmen.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogretmen.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmogretmen.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:14:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Form1.cs [Design]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:46:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frmogrenci.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogrenci.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmogrenci.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmogrenci.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmogrenci.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:45:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frmpersonel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmpersonel.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmpersonel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmpersonel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmpersonel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:04:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frmyayinci.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyayinci.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmyayinci.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyayinci.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmyayinci.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:30:47.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frmyazar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyazar.cs",
+              "RelativeDocumentMoniker": "kutuphane__yonetimi\\Frmyazar.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\kutuphane__yonetimi\\kutuphane__yonetimi\\Frmyazar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphane__yonetimi\\Frmyazar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:42:09.115Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
